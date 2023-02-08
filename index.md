@@ -5,7 +5,7 @@ description: Jekyll Serif contains content types for a typical business website.
 intro_image: "https://www.poliambulatoriokripton.it/data/1996434310624000/2391674074433353/hd/roberta-de-giovanni.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
-show_call_box: false
+show_call_box: true
 ---
 
 # Dott.ssa Roberta De Giovanni, psicologa a Faenza
