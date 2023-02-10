@@ -1,6 +1,6 @@
 ---
 title: Contatti
-layout: contacts
+layout: contact
 description: Contatti
 ---
 
