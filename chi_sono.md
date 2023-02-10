@@ -1,15 +1,21 @@
 ---
-title: About
+title: Chi sono
 layout: page
-description: About
+description: Chi sono
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# Laurea e specializzazioni
+Laureata alla facoltà di Psicologia all’Università di Bologna nel 2009, attualmente specializzanda in psicoterapia.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+# Esperienza lavorativa e professionale
+Mi occupo di sostegno psicologico agli adolescenti attraverso un modello di riferimento adleriano. Strutturo percorsi volti al rafforzamento dell’autostima, al superare momenti di difficoltà, di disagio emotivo, disturbi dell'umore e comportamentali, problematiche legate alla psicologia dell’adolescenza e tardo adolescenza.
+
+# Attività e servizi
+L’obiettivo è favorire un percorso evolutivo più armonico, per accompagnare l’adolescente alle prese con la strutturazione dell’identità nella delicata fase di crescita neurobiologica, affettiva, relazionale.
+
+
+#![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
 # Objectives
 
