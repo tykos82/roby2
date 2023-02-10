@@ -1,12 +1,12 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Linkedin",
+    "link": "https://it.linkedin.com/in/roberta-de-giovanni-087a4745",
+    "image": "images/social/linkedin.svg"
   },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
-  }
+  #{
+  #  "name": "Twitter",
+  #  "link": "https://twitter.com/zerostaticio",
+  #  "image": "images/social/twitter.svg"
+  #}
 ]
